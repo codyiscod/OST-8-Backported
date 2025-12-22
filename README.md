@@ -23,7 +23,7 @@
 ---
 
 # "how to install?" <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F2%2Fa2stqb.jpg&f=1&nofb=1&ipt=aaa36fb057b7c980fa570df0a9c568d6a763f1b1093e7fb44a005825b7bc5cbe" width="36px">
-1. Head to the [Latest Release](https://github.com/codyiscod/OST-8-Backported/releases/latest) page and download the `Source code (.zip)`
+1. Head to the [Latest Release](https://github.com/codyiscod/OST-8-Backported/releases/latest) page and download the `Source code (zip)`
 2. Extract the downloaded file, and you'll see a bunch of `.zip` files. Then...
 
     - **<ins>ModsBeforeFriday</ins> —** Open up the website, connect your headset, and then drag-and-drop each `.zip` file onto the page
