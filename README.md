@@ -24,12 +24,12 @@
 
 # "how to install?" <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F2%2Fa2stqb.jpg&f=1&nofb=1&ipt=aaa36fb057b7c980fa570df0a9c568d6a763f1b1093e7fb44a005825b7bc5cbe" width="36px">
 1. Head to the [Latest Release](https://github.com/codyiscod/OST-8-Backported/releases/latest) page and download the `Source code (zip)`
-2. Extract the downloaded file, and you'll see a bunch of `.zip` files. Then...
+2. Extract the downloaded file. Inside, you'll see a bunch of `.zip` files. With these files...
 
-    - **<ins>ModsBeforeFriday</ins> —** Open up the website, connect your headset, and then drag-and-drop each `.zip` file onto the page
-    - **<ins>BSManager</ins> —** Drag-and-drop all of the `.zip` files into the Maps section
-    - **<ins>Unmodded PCVR</ins> —** Copy the `.zip` files into your game's `CustomLevels` folder, then extract each file into its own folder
-    - **<ins>Unmodded Quest</ins>** and **<ins>PSVR2</ins>** unfortunately don't support custom songs, so those don't work 😔
+    - **<ins>ModsBeforeFriday</ins> —** Open up the MBF website, connect your headset, and then drag-and-drop each `.zip` file onto the page
+    - **<ins>BSManager</ins> —** Drag-and-drop the `.zip` files into the Maps section in BSManager
+    - **<ins>Unmodded PCVR</ins> —** Extract each `.zip` file into their own folders, then copy all of those folders into your game's `/Beat Saber_Data/CustomLevels` folder
+    - **<ins>Unmodded Quest</ins>** and **<ins>PSVR2</ins>** unfortunately don't support custom songs, so those won't work 😔
 
 > If you'd like to create a playlist, I've included an `ost8-cover.png` file, which you can use for your Playlist cover.
 > Remember, songs ***need*** to be added to playlists ***in-game*** for whatever reason!
@@ -48,6 +48,5 @@
 | Dragon Smash Golbin | A playlist of all the songs |
 |-|-|
 | <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/0cee2fcb-5906-4adf-82c6-7511841f39d3" /> |
-
 
 https://github.com/user-attachments/assets/f712e05b-46d1-46ea-8dba-65a59da900e3
