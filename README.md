@@ -50,3 +50,44 @@
 | <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/0cee2fcb-5906-4adf-82c6-7511841f39d3" /> |
 
 https://github.com/user-attachments/assets/f712e05b-46d1-46ea-8dba-65a59da900e3
+
+</br>
+
+---
+
+</br>
+
+## Legal
+```
+I, and this project, are not affiliated with Beat Games, Meta, the song authors, mappers, or lighters in any way. The music tracks and original beatmaps are owned by their respective copyright holders.
+This music pack was ported for the intention of playing it on a moddable version of Beat Saber.
+
+If any of the copyright holders for this music pack wish for this repository to be removed, they are entirely within their own rights to do so.
+To request a takedown notice, please email me at codeymail1@gmail.com
+
+Any use of these ports is your own liability. Use at your own risk.
+
+"Badly" by Camellia
+- Beatmaps by: Narwall, AaltopahWi, Syndicate, ETAN
+- Lightshows by: AaltopahWi, Narwall
+
+"Dragon Smash Goblin" by DragonForce
+- Beatmaps by: altrewin
+- Lightshows by: altrewin, ETAN
+
+"Monday Not Sick Anymore" by Lindsey Stirling
+- Beatmaps by: ETAN, AaltopahWi, Narwall
+- Lightshows by: ETAN
+
+"Overload" by auvic
+- Beatmaps by: Zakka
+- Lightshows by: AaltopahWi, Narwall, Syndicate
+
+"STARLIGHT" by dark cat (ft. juu)
+- Beatmaps by: AaltopahWi, Kolezan
+- Lightshows by: AaltopahWi
+
+"The Master II – Blades of Chaos" by Teminite x Boom Kitty
+- Beatmaps by: altrewin
+- Lightshows by: altrewin
+```
