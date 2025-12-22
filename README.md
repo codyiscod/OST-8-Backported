@@ -36,5 +36,8 @@ Remember, songs ***need*** to be added to playlists ***in-game*** for whatever r
 
 ---
 
-# Examples
-[![Video by @Chicken-f5c8y](/ost-8-cover.png)](https://youtu.be/GJz9NiP45GA)
+<h1 align="center">~ Examples ~</h1>
+
+| i need to add something here | and another thing here |
+|-|-|
+| <p align="center"><b>Dragon Smash Goblin (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <p align="center"><b>The Master II (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
