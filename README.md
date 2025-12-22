@@ -41,6 +41,13 @@
 
 <h1 align="center">~ Examples ~</h1>
 
-| im gonna put another video here | and another video here |
+| <p align="center"><b>Dragon Smash Goblin (Expert)</b> played by [Chicken](https://www.youtube.com/@Chicken-f5c8y)</p> | <p align="center"><b>The Master II (Expert)</b> played by [Chicken](https://www.youtube.com/@Chicken-f5c8y)</p> |
 |-|-|
-| <p align="center"><b>Dragon Smash Goblin (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <p align="center"><b>The Master II (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
+| [![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | [![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
+
+| Dragon Smash Golbin | A playlist of all the songs |
+|-|-|
+| <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/0cee2fcb-5906-4adf-82c6-7511841f39d3" /> |
+
+
+https://github.com/user-attachments/assets/f712e05b-46d1-46ea-8dba-65a59da900e3
