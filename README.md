@@ -33,3 +33,8 @@
 
 If you'd like to create a playlist, I've included an `ost8-cover.png` file, which you can use for your Playlist cover.
 Remember, songs ***need*** to be added to playlists ***in-game*** for whatever reason!
+
+---
+
+# Examples
+[![Video by @Chicken-f5c8y](/ost-8-cover.png)](https://youtu.be/GJz9NiP45GA)
