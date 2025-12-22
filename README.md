@@ -26,13 +26,13 @@
 1. Head to the [Latest Release](https://github.com/codyiscod/OST-8-Backported/releases/latest) page and download the `Source Code`
 2. Extract the downloaded file, and you'll see a bunch of `.zip` files. Then...
 
-    - **ModsBeforeFriday —** Open up the website, connect your headset, and then drag-and-drop each `.zip` file onto the page
-    - **BSManager —** Drag-and-drop all of the `.zip` files into the Maps section
-    - **Unmodded PCVR —** Copy the `.zip` files into your game's `CustomLevels` folder, then extract each file into its own folder
-    - **Unmodded Quest** and **PSVR2** unfortunately don't support custom songs, so those don't work 😔
+    - **<ins>ModsBeforeFriday</ins> —** Open up the website, connect your headset, and then drag-and-drop each `.zip` file onto the page
+    - **<ins>BSManager</ins> —** Drag-and-drop all of the `.zip` files into the Maps section
+    - **<ins>Unmodded PCVR</ins> —** Copy the `.zip` files into your game's `CustomLevels` folder, then extract each file into its own folder
+    - **<ins>Unmodded Quest</ins>** and **<ins>PSVR2</ins>** unfortunately don't support custom songs, so those don't work 😔
 
-If you'd like to create a playlist, I've included an `ost8-cover.png` file, which you can use for your Playlist cover.
-Remember, songs ***need*** to be added to playlists ***in-game*** for whatever reason!
+> If you'd like to create a playlist, I've included an `ost8-cover.png` file, which you can use for your Playlist cover.
+> Remember, songs ***need*** to be added to playlists ***in-game*** for whatever reason!
 
 ---
 
