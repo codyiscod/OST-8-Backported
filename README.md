@@ -39,11 +39,11 @@
 <br>
 
 
-<h1 align="center">~ Examples ~</h1>
+<h1 align="center">✨ SCREENSHOTS!! ✨</h1>
 
-| <p align="center"><b>Dragon Smash Goblin (Expert)</b> played by [Chicken](https://www.youtube.com/@Chicken-f5c8y)</p> | <p align="center"><b>The Master II (Expert)</b> played by [Chicken](https://www.youtube.com/@Chicken-f5c8y)</p> |
+| Dragon Smash Goblin (Expert) played by [Chicken](https://www.youtube.com/@Chicken-f5c8y) | The Master II (Expert) played by [Chicken](https://www.youtube.com/@Chicken-f5c8y) |
 |-|-|
-| [![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | [![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
+| <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
 
 | Dragon Smash Golbin | A playlist of all the songs |
 |-|-|
