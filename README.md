@@ -36,8 +36,11 @@
 
 ---
 
+<br>
+
+
 <h1 align="center">~ Examples ~</h1>
 
-| i need to add something here | and another thing here |
+| im gonna put another video here | and another video here |
 |-|-|
 | <p align="center"><b>Dragon Smash Goblin (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <p align="center"><b>The Master II (Expert)</b> by [@Chicken-f5c8y](https://www.youtube.com/@Chicken-f5c8y)</p>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
