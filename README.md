@@ -39,17 +39,22 @@
 <br>
 
 
-<h1 align="center">✨ SCREENSHOTS!! ✨</h1>
+<h1 align="center">✨ VIDEOS!! ✨</h1>
+<p align="center">Thanks to <a href="https://www.youtube.com/@Chicken-f5c8y">Chicken</a> for playing these songs! Go subscribe to him too :)</p>
 
-| Dragon Smash Goblin (Expert) played by [Chicken](https://www.youtube.com/@Chicken-f5c8y) | The Master II (Expert) played by [Chicken](https://www.youtube.com/@Chicken-f5c8y) |
-|-|-|
-| <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
+| Badly (Expert) | Dragon Smash Goblin (Expert) | Monday Not Sick Anymore (Expert+) |
+|-|-|-|
+| <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/pXJeF06CUp8/hqdefault.jpg)](https://youtu.be/pXJeF06CUp8) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/GJz9NiP45GA/hqdefault.jpg)](https://youtu.be/GJz9NiP45GA) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/nbc8Wlg5zEM/hqdefault.jpg)](https://youtu.be/nbc8Wlg5zEM) |
+| <p align="center"><b>Overload (Expert+)</b></p> | <p align="center"><b>STARLIGHT (Expert+)</b></p> | <p align="center"><b>The Master II (Expert)</b></p> |
+| <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/QgiPzRVt4Co/hqdefault.jpg)](https://youtu.be/QgiPzRVt4Co) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/boD8s_oOQdE/hqdefault.jpg)](https://youtu.be/boD8s_oOQdE) | <sub><p align="center">(Click to watch on YouTube)</p></sub>[![Video by @Chicken-f5c8y](https://img.youtube.com/vi/ppCtYfM3W_E/hqdefault.jpg)](https://youtu.be/ppCtYfM3W_E) |
+
+</br>
+
+<h1 align="center">...and a few screenshots:</h1>
 
 | Dragon Smash Golbin | A playlist of all the songs |
 |-|-|
-| <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/0cee2fcb-5906-4adf-82c6-7511841f39d3" /> |
-
-https://github.com/user-attachments/assets/f712e05b-46d1-46ea-8dba-65a59da900e3
+| <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/6142bef0-8ddb-45d3-82c9-ccaf4de97688" /> |
 
 </br>
 
