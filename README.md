@@ -52,9 +52,9 @@
 
 <h1 align="center">...and a few screenshots:</h1>
 
-| Dragon Smash Golbin | A playlist of all the songs |
+| Dragon Smash Goblin | A playlist of all the songs |
 |-|-|
-| <img width="480" alt="Dragon Smash Golbin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/6142bef0-8ddb-45d3-82c9-ccaf4de97688" /> |
+| <img width="480" alt="Dragon Smash Goblin" src="https://github.com/user-attachments/assets/54d8a0aa-b89c-44ad-bbf2-f45ee6242931" /> | <img width="480" alt="Song List" src="https://github.com/user-attachments/assets/6142bef0-8ddb-45d3-82c9-ccaf4de97688" /> |
 
 </br>
 
