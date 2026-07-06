@@ -15,10 +15,9 @@
 - All song data is correct (mappers, lighters, song information, etc.)
 
 ### <img src="https://cdn.discordapp.com/emojis/813065214245077013.webp?size=22"> What's broken?
-- **The new "Cube" environment doesn't exist.** The "Weave" environment is used instead.
+- **The "Cube" environment doesn't exist,** so "Weave" is used instead. This makes the lightshows look a bit random
 - **These songs cannot be uploaded to BeatSaver.** This means leaderboards are disabled.
-- **Walls can sometimes be too low** because the new wall positions are not supported.
-- **Songs have to be added to playlists in-game.** Not sure why, but BSManager doesn't like it :(
+- **Walls are rarely a little too low** since the new wall positions aren't supported.
 
 ---
 
