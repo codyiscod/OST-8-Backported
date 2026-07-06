@@ -16,8 +16,8 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/813065214245077013.webp?size=22"> What's broken?
 - **The new "Cube" environment doesn't exist.** The "Weave" environment is used instead.
-- **These songs cannot be uploaded to BeatSaver.** That means no leaderboards, no transferring playlists, and no multiplayer.
-- **Walls can sometimes be too low** because the new wall positions are not supported
+- **These songs cannot be uploaded to BeatSaver.** This means leaderboards are disabled.
+- **Walls can sometimes be too low** because the new wall positions are not supported.
 - **Songs have to be added to playlists in-game.** Not sure why, but BSManager doesn't like it :(
 
 ---
