@@ -1,5 +1,5 @@
 <h1 align="center">OST 8 Backported <img src="https://cdn.discordapp.com/emojis/1447225465679904850.webp?size=32&animated=true"></h1>
-<p align="center">Yes, I have ported <i><b>EVERY</b></i> OST 8 song to <b>1.40.0</b>!</p>
+<p align="center">Yes, I have ported <i><b>EVERY</b></i> OST 8 song to <b>1.40.0+</b>!</p>
 
 ---
 
